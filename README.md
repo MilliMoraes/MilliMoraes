@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="220" height="220" alt="images" src="https://github.com/user-attachments/assets/092b2b82-01d4-470f-9fc7-f564183e5c50" />
 
 <!--
 **MilliMoraes/MilliMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
