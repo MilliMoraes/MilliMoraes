@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 <img width="480" height="360" alt="digitando-gatiho" src="https://github.com/user-attachments/assets/77c8b76d-07dd-4d50-b144-0f8b817266ee" />
 
 
